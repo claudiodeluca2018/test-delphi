@@ -6,3 +6,7 @@ tercera linea escrita desde delphi2
 ******************************
 escrito en la branch delphi2
 ******************************
+
+*******************
+agregados
+************************
